@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Draw</class>
+ <widget class="QDialog" name="Draw">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>599</width>
+    <height>413</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>函数绘图</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="painter/cal.qrc">
+    <normaloff>:/images/cal.png</normaloff>:/images/cal.png</iconset>
+  </property>
+ </widget>
+ <resources>
+  <include location="painter/cal.qrc"/>
+ </resources>
+ <connections/>
+</ui>
