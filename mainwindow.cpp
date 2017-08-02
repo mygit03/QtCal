@@ -25,7 +25,7 @@ MainWindow::MainWindow(QWidget *parent) :
 
 //    webView = new QWebView;
 
-    ui->menuOnLine_L->hide();
+    ui->menuOnLine_L->setEnabled(false);
 }
 
 MainWindow::~MainWindow()
