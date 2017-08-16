@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cal.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/help.png</file>
+        <file>images/paste.png</file>
+        <file>images/qt.png</file>
+        <file>images/standard.png</file>
+    </qresource>
+</RCC>
